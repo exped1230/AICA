@@ -24,7 +24,7 @@ The used datasets are provided in our [homepage](http://47.105.62.179:8081/senti
 
 - The official implementation of Sun attribute can be obtained [here](https://github.com/genp/sun_attributes).
 
-- The source code of Sentibank can be downloaded [here](http://47.105.62.179:8081/sentiment_web/datasets/Sentibank.zip). Note that we have made a lot of efforts, and finally confirmed that the official code can only run on the Windows system。
+- The source code of Sentibank can be downloaded [here](http://47.105.62.179:8081/sentiment_web/datasets/Sentibank.zip). Note that we have made a lot of efforts, and finally confirmed that the official code can only run on the Windows system.
 
 ## Citation
 If you find this code to be useful for your research, please consider citing.

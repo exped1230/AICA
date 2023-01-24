@@ -20,7 +20,7 @@ The used datasets are provided in our [homepage](http://47.105.62.179:8081/senti
 ## Projects
 - The source codes of [WSCNet](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Weakly_Supervised_Coupled_CVPR_2018_paper.pdf), [PDANet](https://dl.acm.org/doi/abs/10.1145/3343031.3351062), [RCA](https://ojs.aaai.org/index.php/AAAI/article/view/11275), [Joint](https://www.ijcai.org/proceedings/2017/456) are implemented in WSCNet+PDANet+RCA+Joint.
 
-- The unofficial source code of [PAEF](https://dl.acm.org/doi/abs/10.1145/2647868.2654930) is provided in PAEF_SimpleVersion.
+- The unofficial code of [PAEF](https://dl.acm.org/doi/abs/10.1145/2647868.2654930) is provided in PAEF_SimpleVersion.
 
 - The official implementation of Sun attribute can be obtained [here](https://github.com/genp/sun_attributes).
 

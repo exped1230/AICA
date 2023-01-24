@@ -1,0 +1,201 @@
+19287 3407
+Epoch 1/100 train: last lr: 0.0001, classification loss: 1.825552225112915
+Epoch 1/100 test: test loss: 1.631523847579956, top-1 acc: 0.4649251540945113, best top-1 acc: 0.4649251540945113
+Epoch 2/100 train: last lr: 0.0001, classification loss: 1.5315333604812622
+Epoch 2/100 test: test loss: 1.428399920463562, top-1 acc: 0.516583504549457, best top-1 acc: 0.516583504549457
+Epoch 3/100 train: last lr: 0.0001, classification loss: 1.3855191469192505
+Epoch 3/100 test: test loss: 1.3213711977005005, top-1 acc: 0.5462283533900792, best top-1 acc: 0.5462283533900792
+Epoch 4/100 train: last lr: 0.0001, classification loss: 1.301646113395691
+Epoch 4/100 test: test loss: 1.2542520761489868, top-1 acc: 0.5697094217786909, best top-1 acc: 0.5697094217786909
+Epoch 5/100 train: last lr: 0.0001, classification loss: 1.2474439144134521
+Epoch 5/100 test: test loss: 1.2091341018676758, top-1 acc: 0.587026709715292, best top-1 acc: 0.587026709715292
+Epoch 6/100 train: last lr: 0.0001, classification loss: 1.2095807790756226
+Epoch 6/100 test: test loss: 1.176710844039917, top-1 acc: 0.5887877898444379, best top-1 acc: 0.5887877898444379
+Epoch 7/100 train: last lr: 0.0001, classification loss: 1.1767009496688843
+Epoch 7/100 test: test loss: 1.1510679721832275, top-1 acc: 0.597006163780452, best top-1 acc: 0.597006163780452
+Epoch 8/100 train: last lr: 0.0001, classification loss: 1.151063323020935
+Epoch 8/100 test: test loss: 1.1288986206054688, top-1 acc: 0.6037569709421778, best top-1 acc: 0.6037569709421778
+Epoch 9/100 train: last lr: 0.0001, classification loss: 1.128218412399292
+Epoch 9/100 test: test loss: 1.1109520196914673, top-1 acc: 0.6087466979747579, best top-1 acc: 0.6087466979747579
+Epoch 10/100 train: last lr: 0.0001, classification loss: 1.1143383979797363
+Epoch 10/100 test: test loss: 1.0967720746994019, top-1 acc: 0.6119753448781919, best top-1 acc: 0.6119753448781919
+Epoch 11/100 train: last lr: 0.0001, classification loss: 1.0972439050674438
+Epoch 11/100 test: test loss: 1.0819207429885864, top-1 acc: 0.6175520986204872, best top-1 acc: 0.6175520986204872
+Epoch 12/100 train: last lr: 0.0001, classification loss: 1.083067774772644
+Epoch 12/100 test: test loss: 1.0697929859161377, top-1 acc: 0.6184326386850602, best top-1 acc: 0.6184326386850602
+Epoch 13/100 train: last lr: 0.0001, classification loss: 1.06997811794281
+Epoch 13/100 test: test loss: 1.0595625638961792, top-1 acc: 0.6225418256530673, best top-1 acc: 0.6225418256530673
+Epoch 14/100 train: last lr: 0.0001, classification loss: 1.0542964935302734
+Epoch 14/100 test: test loss: 1.0499083995819092, top-1 acc: 0.624302905782213, best top-1 acc: 0.624302905782213
+Epoch 15/100 train: last lr: 0.0001, classification loss: 1.0502973794937134
+Epoch 15/100 test: test loss: 1.0428863763809204, top-1 acc: 0.625183445846786, best top-1 acc: 0.625183445846786
+Epoch 16/100 train: last lr: 0.0001, classification loss: 1.0357677936553955
+Epoch 16/100 test: test loss: 1.0341675281524658, top-1 acc: 0.6292926328147931, best top-1 acc: 0.6292926328147931
+Epoch 17/100 train: last lr: 0.0001, classification loss: 1.023770809173584
+Epoch 17/100 test: test loss: 1.0284407138824463, top-1 acc: 0.6281185793953625, best top-1 acc: 0.6292926328147931
+Epoch 18/100 train: last lr: 0.0001, classification loss: 1.0126216411590576
+Epoch 18/100 test: test loss: 1.019100546836853, top-1 acc: 0.6319342530085119, best top-1 acc: 0.6319342530085119
+Epoch 19/100 train: last lr: 0.0001, classification loss: 1.006117820739746
+Epoch 19/100 test: test loss: 1.0119487047195435, top-1 acc: 0.634282359847373, best top-1 acc: 0.634282359847373
+Epoch 20/100 train: last lr: 0.0001, classification loss: 0.9973698258399963
+Epoch 20/100 test: test loss: 1.0086652040481567, top-1 acc: 0.6357499266216613, best top-1 acc: 0.6357499266216613
+Epoch 21/100 train: last lr: 0.0001, classification loss: 0.9848505258560181
+Epoch 21/100 test: test loss: 1.0009995698928833, top-1 acc: 0.6395656002348107, best top-1 acc: 0.6395656002348107
+Epoch 22/100 train: last lr: 0.0001, classification loss: 0.9777804017066956
+Epoch 22/100 test: test loss: 0.9976515769958496, top-1 acc: 0.6369239800410919, best top-1 acc: 0.6395656002348107
+Epoch 23/100 train: last lr: 0.0001, classification loss: 0.9659252166748047
+Epoch 23/100 test: test loss: 0.9917045831680298, top-1 acc: 0.6413266803639566, best top-1 acc: 0.6413266803639566
+Epoch 24/100 train: last lr: 0.0001, classification loss: 0.9620370268821716
+Epoch 24/100 test: test loss: 0.9867955446243286, top-1 acc: 0.6427942471382448, best top-1 acc: 0.6427942471382448
+Epoch 25/100 train: last lr: 0.0001, classification loss: 0.9531377553939819
+Epoch 25/100 test: test loss: 0.9819214344024658, top-1 acc: 0.6439683005576754, best top-1 acc: 0.6439683005576754
+Epoch 26/100 train: last lr: 0.0001, classification loss: 0.9449259638786316
+Epoch 26/100 test: test loss: 0.9788340926170349, top-1 acc: 0.6454358673319636, best top-1 acc: 0.6454358673319636
+Epoch 27/100 train: last lr: 0.0001, classification loss: 0.9393688440322876
+Epoch 27/100 test: test loss: 0.9772347807884216, top-1 acc: 0.6430877604931025, best top-1 acc: 0.6454358673319636
+Epoch 28/100 train: last lr: 0.0001, classification loss: 0.9305175542831421
+Epoch 28/100 test: test loss: 0.9701781272888184, top-1 acc: 0.6474904608159672, best top-1 acc: 0.6474904608159672
+Epoch 29/100 train: last lr: 0.0001, classification loss: 0.9245439767837524
+Epoch 29/100 test: test loss: 0.9678677916526794, top-1 acc: 0.6457293806868213, best top-1 acc: 0.6474904608159672
+Epoch 30/100 train: last lr: 0.0001, classification loss: 0.9179999828338623
+Epoch 30/100 test: test loss: 0.9654022455215454, top-1 acc: 0.6483710008805401, best top-1 acc: 0.6483710008805401
+Epoch 31/100 train: last lr: 0.0001, classification loss: 0.9112948775291443
+Epoch 31/100 test: test loss: 0.9619249105453491, top-1 acc: 0.6460228940416789, best top-1 acc: 0.6483710008805401
+Epoch 32/100 train: last lr: 0.0001, classification loss: 0.9023134112358093
+Epoch 32/100 test: test loss: 0.9571384787559509, top-1 acc: 0.6483710008805401, best top-1 acc: 0.6483710008805401
+Epoch 33/100 train: last lr: 0.0001, classification loss: 0.8963393568992615
+Epoch 33/100 test: test loss: 0.9529265761375427, top-1 acc: 0.6510126210742588, best top-1 acc: 0.6510126210742588
+Epoch 34/100 train: last lr: 0.0001, classification loss: 0.8911294341087341
+Epoch 34/100 test: test loss: 0.9516340494155884, top-1 acc: 0.6510126210742588, best top-1 acc: 0.6510126210742588
+Epoch 35/100 train: last lr: 0.0001, classification loss: 0.8814291954040527
+Epoch 35/100 test: test loss: 0.9494906663894653, top-1 acc: 0.6510126210742588, best top-1 acc: 0.6510126210742588
+Epoch 36/100 train: last lr: 0.0001, classification loss: 0.8796826004981995
+Epoch 36/100 test: test loss: 0.9474660754203796, top-1 acc: 0.6521866744936895, best top-1 acc: 0.6521866744936895
+Epoch 37/100 train: last lr: 0.0001, classification loss: 0.8687401413917542
+Epoch 37/100 test: test loss: 0.9451383948326111, top-1 acc: 0.6521866744936895, best top-1 acc: 0.6521866744936895
+Epoch 38/100 train: last lr: 0.0001, classification loss: 0.8607562780380249
+Epoch 38/100 test: test loss: 0.9423766732215881, top-1 acc: 0.6524801878485471, best top-1 acc: 0.6524801878485471
+Epoch 39/100 train: last lr: 0.0001, classification loss: 0.86002516746521
+Epoch 39/100 test: test loss: 0.9398303627967834, top-1 acc: 0.6545347813325506, best top-1 acc: 0.6545347813325506
+Epoch 40/100 train: last lr: 0.0001, classification loss: 0.8488240838050842
+Epoch 40/100 test: test loss: 0.9374904036521912, top-1 acc: 0.6545347813325506, best top-1 acc: 0.6545347813325506
+Epoch 41/100 train: last lr: 0.0001, classification loss: 0.8428862690925598
+Epoch 41/100 test: test loss: 0.9358575940132141, top-1 acc: 0.6548282946874083, best top-1 acc: 0.6548282946874083
+Epoch 42/100 train: last lr: 0.0001, classification loss: 0.839310884475708
+Epoch 42/100 test: test loss: 0.9350719451904297, top-1 acc: 0.6545347813325506, best top-1 acc: 0.6548282946874083
+Epoch 43/100 train: last lr: 0.0001, classification loss: 0.8321725726127625
+Epoch 43/100 test: test loss: 0.9335793256759644, top-1 acc: 0.6592309950102729, best top-1 acc: 0.6592309950102729
+Epoch 44/100 train: last lr: 0.0001, classification loss: 0.8262571096420288
+Epoch 44/100 test: test loss: 0.9314135909080505, top-1 acc: 0.657469914881127, best top-1 acc: 0.6592309950102729
+Epoch 45/100 train: last lr: 0.0001, classification loss: 0.8142569065093994
+Epoch 45/100 test: test loss: 0.9295446872711182, top-1 acc: 0.6583504549457, best top-1 acc: 0.6592309950102729
+Epoch 46/100 train: last lr: 0.0001, classification loss: 0.8187207579612732
+Epoch 46/100 test: test loss: 0.9280514717102051, top-1 acc: 0.6609920751394188, best top-1 acc: 0.6609920751394188
+Epoch 47/100 train: last lr: 0.0001, classification loss: 0.8032781481742859
+Epoch 47/100 test: test loss: 0.9283246994018555, top-1 acc: 0.6604050484297036, best top-1 acc: 0.6609920751394188
+Epoch 48/100 train: last lr: 0.0001, classification loss: 0.7975856065750122
+Epoch 48/100 test: test loss: 0.9251181483268738, top-1 acc: 0.6601115350748459, best top-1 acc: 0.6609920751394188
+Epoch 49/100 train: last lr: 0.0001, classification loss: 0.7964651584625244
+Epoch 49/100 test: test loss: 0.9250149130821228, top-1 acc: 0.66334018197828, best top-1 acc: 0.66334018197828
+Epoch 50/100 train: last lr: 0.0001, classification loss: 0.7842862606048584
+Epoch 50/100 test: test loss: 0.9219227433204651, top-1 acc: 0.6665688288817141, best top-1 acc: 0.6665688288817141
+Epoch 51/100 train: last lr: 0.0001, classification loss: 0.7764127850532532
+Epoch 51/100 test: test loss: 0.9212843179702759, top-1 acc: 0.6656882888171411, best top-1 acc: 0.6665688288817141
+Epoch 52/100 train: last lr: 0.0001, classification loss: 0.7735792398452759
+Epoch 52/100 test: test loss: 0.9224255681037903, top-1 acc: 0.664220722042853, best top-1 acc: 0.6665688288817141
+Epoch 53/100 train: last lr: 0.0001, classification loss: 0.7686092853546143
+Epoch 53/100 test: test loss: 0.9199915528297424, top-1 acc: 0.6662753155268565, best top-1 acc: 0.6665688288817141
+Epoch 54/100 train: last lr: 0.0001, classification loss: 0.7574892640113831
+Epoch 54/100 test: test loss: 0.9196368455886841, top-1 acc: 0.6689169357205753, best top-1 acc: 0.6689169357205753
+Epoch 55/100 train: last lr: 0.0001, classification loss: 0.7529197931289673
+Epoch 55/100 test: test loss: 0.9200724363327026, top-1 acc: 0.6665688288817141, best top-1 acc: 0.6689169357205753
+Epoch 56/100 train: last lr: 0.0001, classification loss: 0.7468739151954651
+Epoch 56/100 test: test loss: 0.9172409176826477, top-1 acc: 0.6695039624302905, best top-1 acc: 0.6695039624302905
+Epoch 57/100 train: last lr: 0.0001, classification loss: 0.7433752417564392
+Epoch 57/100 test: test loss: 0.9176941514015198, top-1 acc: 0.6662753155268565, best top-1 acc: 0.6695039624302905
+Epoch 58/100 train: last lr: 0.0001, classification loss: 0.7365704774856567
+Epoch 58/100 test: test loss: 0.9188578724861145, top-1 acc: 0.6665688288817141, best top-1 acc: 0.6695039624302905
+Epoch 59/100 train: last lr: 0.0001, classification loss: 0.7277110815048218
+Epoch 59/100 test: test loss: 0.9196317195892334, top-1 acc: 0.6677428823011446, best top-1 acc: 0.6695039624302905
+Epoch 60/100 train: last lr: 0.0001, classification loss: 0.724801242351532
+Epoch 60/100 test: test loss: 0.9171783328056335, top-1 acc: 0.6712650425594364, best top-1 acc: 0.6712650425594364
+Epoch 61/100 train: last lr: 0.0001, classification loss: 0.7157183885574341
+Epoch 61/100 test: test loss: 0.9196237921714783, top-1 acc: 0.6700909891400059, best top-1 acc: 0.6712650425594364
+Epoch 62/100 train: last lr: 0.0001, classification loss: 0.7148218154907227
+Epoch 62/100 test: test loss: 0.9198036193847656, top-1 acc: 0.6700909891400059, best top-1 acc: 0.6712650425594364
+Epoch 63/100 train: last lr: 0.0001, classification loss: 0.7037969827651978
+Epoch 63/100 test: test loss: 0.9163415431976318, top-1 acc: 0.6730261226885823, best top-1 acc: 0.6730261226885823
+Epoch 64/100 train: last lr: 0.0001, classification loss: 0.6975013613700867
+Epoch 64/100 test: test loss: 0.917262077331543, top-1 acc: 0.6756677428823011, best top-1 acc: 0.6756677428823011
+Epoch 65/100 train: last lr: 0.0001, classification loss: 0.690954327583313
+Epoch 65/100 test: test loss: 0.916989266872406, top-1 acc: 0.6739066627531553, best top-1 acc: 0.6756677428823011
+Epoch 66/100 train: last lr: 0.0001, classification loss: 0.6890445947647095
+Epoch 66/100 test: test loss: 0.91820228099823, top-1 acc: 0.6727326093337247, best top-1 acc: 0.6756677428823011
+Epoch 67/100 train: last lr: 0.0001, classification loss: 0.6778247952461243
+Epoch 67/100 test: test loss: 0.917782723903656, top-1 acc: 0.6742001761080129, best top-1 acc: 0.6756677428823011
+Epoch 68/100 train: last lr: 0.0001, classification loss: 0.6738355755805969
+Epoch 68/100 test: test loss: 0.9181843996047974, top-1 acc: 0.67830936307602, best top-1 acc: 0.67830936307602
+Epoch 69/100 train: last lr: 0.0001, classification loss: 0.6607319116592407
+Epoch 69/100 test: test loss: 0.9238296151161194, top-1 acc: 0.6739066627531553, best top-1 acc: 0.67830936307602
+Epoch 70/100 train: last lr: 0.0001, classification loss: 0.6589893102645874
+Epoch 70/100 test: test loss: 0.9200879335403442, top-1 acc: 0.6759612562371587, best top-1 acc: 0.67830936307602
+Epoch 71/100 train: last lr: 0.0001, classification loss: 0.6536675095558167
+Epoch 71/100 test: test loss: 0.9223437309265137, top-1 acc: 0.6765482829468741, best top-1 acc: 0.67830936307602
+Epoch 72/100 train: last lr: 0.0001, classification loss: 0.6459161043167114
+Epoch 72/100 test: test loss: 0.9214138984680176, top-1 acc: 0.6794834164954505, best top-1 acc: 0.6794834164954505
+Epoch 73/100 train: last lr: 0.0001, classification loss: 0.6378758549690247
+Epoch 73/100 test: test loss: 0.9230495095252991, top-1 acc: 0.6750807161725858, best top-1 acc: 0.6794834164954505
+Epoch 74/100 train: last lr: 0.0001, classification loss: 0.6336013674736023
+Epoch 74/100 test: test loss: 0.9242024421691895, top-1 acc: 0.6788963897857353, best top-1 acc: 0.6794834164954505
+Epoch 75/100 train: last lr: 0.0001, classification loss: 0.6276116371154785
+Epoch 75/100 test: test loss: 0.9273794293403625, top-1 acc: 0.6762547695920165, best top-1 acc: 0.6794834164954505
+Epoch 76/100 train: last lr: 0.0001, classification loss: 0.6222887635231018
+Epoch 76/100 test: test loss: 0.9258036017417908, top-1 acc: 0.6794834164954505, best top-1 acc: 0.6794834164954505
+Epoch 77/100 train: last lr: 0.0001, classification loss: 0.6102226972579956
+Epoch 77/100 test: test loss: 0.9276446104049683, top-1 acc: 0.6794834164954505, best top-1 acc: 0.6794834164954505
+Epoch 78/100 train: last lr: 0.0001, classification loss: 0.6072303652763367
+Epoch 78/100 test: test loss: 0.9294832944869995, top-1 acc: 0.6797769298503082, best top-1 acc: 0.6797769298503082
+Epoch 79/100 train: last lr: 0.0001, classification loss: 0.6021667718887329
+Epoch 79/100 test: test loss: 0.9288941025733948, top-1 acc: 0.6797769298503082, best top-1 acc: 0.6797769298503082
+Epoch 80/100 train: last lr: 0.0001, classification loss: 0.5937842130661011
+Epoch 80/100 test: test loss: 0.9310219287872314, top-1 acc: 0.6771353096565894, best top-1 acc: 0.6797769298503082
+Epoch 81/100 train: last lr: 0.0001, classification loss: 0.5881831645965576
+Epoch 81/100 test: test loss: 0.9324992299079895, top-1 acc: 0.6835926034634576, best top-1 acc: 0.6835926034634576
+Epoch 82/100 train: last lr: 0.0001, classification loss: 0.5800414085388184
+Epoch 82/100 test: test loss: 0.93291175365448, top-1 acc: 0.6812444966245964, best top-1 acc: 0.6835926034634576
+Epoch 83/100 train: last lr: 0.0001, classification loss: 0.5788741707801819
+Epoch 83/100 test: test loss: 0.9357046484947205, top-1 acc: 0.6827120633988847, best top-1 acc: 0.6835926034634576
+Epoch 84/100 train: last lr: 0.0001, classification loss: 0.5628282427787781
+Epoch 84/100 test: test loss: 0.9351487159729004, top-1 acc: 0.6791899031405929, best top-1 acc: 0.6835926034634576
+Epoch 85/100 train: last lr: 0.0001, classification loss: 0.5553804039955139
+Epoch 85/100 test: test loss: 0.9396571516990662, top-1 acc: 0.682418550044027, best top-1 acc: 0.6835926034634576
+Epoch 86/100 train: last lr: 0.0001, classification loss: 0.5550969243049622
+Epoch 86/100 test: test loss: 0.9451198577880859, top-1 acc: 0.6777223363663046, best top-1 acc: 0.6835926034634576
+Epoch 87/100 train: last lr: 0.0001, classification loss: 0.5486468076705933
+Epoch 87/100 test: test loss: 0.9467715620994568, top-1 acc: 0.6803639565600235, best top-1 acc: 0.6835926034634576
+Epoch 88/100 train: last lr: 0.0001, classification loss: 0.5368706583976746
+Epoch 88/100 test: test loss: 0.9452728033065796, top-1 acc: 0.6791899031405929, best top-1 acc: 0.6835926034634576
+Epoch 89/100 train: last lr: 0.0001, classification loss: 0.5362988114356995
+Epoch 89/100 test: test loss: 0.9501509666442871, top-1 acc: 0.6750807161725858, best top-1 acc: 0.6835926034634576
+Epoch 90/100 train: last lr: 0.0001, classification loss: 0.5251795053482056
+Epoch 90/100 test: test loss: 0.9501280784606934, top-1 acc: 0.67830936307602, best top-1 acc: 0.6835926034634576
+Epoch 91/100 train: last lr: 0.0001, classification loss: 0.5165855288505554
+Epoch 91/100 test: test loss: 0.9521350860595703, top-1 acc: 0.6788963897857353, best top-1 acc: 0.6835926034634576
+Epoch 92/100 train: last lr: 0.0001, classification loss: 0.5161722302436829
+Epoch 92/100 test: test loss: 0.9576160311698914, top-1 acc: 0.6803639565600235, best top-1 acc: 0.6835926034634576
+Epoch 93/100 train: last lr: 0.0001, classification loss: 0.5007295608520508
+Epoch 93/100 test: test loss: 0.9577831029891968, top-1 acc: 0.6806574699148811, best top-1 acc: 0.6835926034634576
+Epoch 94/100 train: last lr: 0.0001, classification loss: 0.49787119030952454
+Epoch 94/100 test: test loss: 0.96197110414505, top-1 acc: 0.681538009979454, best top-1 acc: 0.6835926034634576
+Epoch 95/100 train: last lr: 0.0001, classification loss: 0.4922983944416046
+Epoch 95/100 test: test loss: 0.9642302989959717, top-1 acc: 0.6786028764308776, best top-1 acc: 0.6835926034634576
+Epoch 96/100 train: last lr: 0.0001, classification loss: 0.4851190447807312
+Epoch 96/100 test: test loss: 0.9651377201080322, top-1 acc: 0.6797769298503082, best top-1 acc: 0.6835926034634576
+Epoch 97/100 train: last lr: 0.0001, classification loss: 0.48196330666542053
+Epoch 97/100 test: test loss: 0.9711981415748596, top-1 acc: 0.6756677428823011, best top-1 acc: 0.6835926034634576
+Epoch 98/100 train: last lr: 0.0001, classification loss: 0.4735141396522522
+Epoch 98/100 test: test loss: 0.974032461643219, top-1 acc: 0.6756677428823011, best top-1 acc: 0.6835926034634576
+Epoch 99/100 train: last lr: 0.0001, classification loss: 0.46726566553115845
+Epoch 99/100 test: test loss: 0.9742099046707153, top-1 acc: 0.677428823011447, best top-1 acc: 0.6835926034634576
+Epoch 100/100 train: last lr: 0.0001, classification loss: 0.4577382206916809
+Epoch 100/100 test: test loss: 0.9778004288673401, top-1 acc: 0.6786028764308776, best top-1 acc: 0.6835926034634576
